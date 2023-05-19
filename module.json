@@ -13,5 +13,14 @@
         "minimum": "10",
         "verified": "10"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "packs": [
+        {
+          "name": "gurps-macro",
+          "label": "Gurps Macro",
+          "path": "packs/gurps-macro.db",
+          "entity": "Macro",
+          "module": "gurps-macro"
+        }
+    ]
 }
