@@ -1,0 +1,17 @@
+{
+    "id": "gurps-macro",
+    "title": "Gurps Macros ",
+    "description": "Módulo com um compilado de macros para usar em aventuras usando o sistema GURPS",
+    "authors": [
+        {
+            "name": "Trezecete",
+            "url": "xxxx",
+            "flags": {}
+        }
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "version": "0.1.0"
+}
